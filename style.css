@@ -91,6 +91,12 @@ img {
         background-color: #222;
         color: #ddd;
     }
+    footer {
+    color: #ddd;    
+    }
+    #address {
+        color:#ddd
+    }
 }
 
 /* Dynamic layout */
